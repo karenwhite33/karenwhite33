@@ -6,6 +6,7 @@ I specialize in data preprocessing, transfer learning, feature fusion, and hyper
 
 My goal is to leverage my unique perspective, problem-solving skills, and emerging AI knowledge to drive impactful projects and solve complex challenges across various industries.
 
+_________________________________________________________________
 
 👀 I’m interested in AI, ML, deep learning, model predictions, tech, sound design, AI content creation, music, cinema, and travel.
 
