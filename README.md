@@ -10,7 +10,7 @@ _________________________________________________________________
 
 👀 I’m interested in AI, ML, deep learning, model predictions, tech, sound design, AI content creation, music, cinema, and travel.
 
-🌱 I’m currently enrolled in an AI Full-Stack Bootcamp, diving deep into Python, ML, LLMs, deep learning, data security & protection, big data management & visualization, computer vision, ethical AI, model deployment, advanced SQL, and developing custom AI models.
+🌱 I’m diving deep into Python, ML, LLMs, deep learning, data security & protection, big data management & visualization, computer vision, ethical AI, model deployment, advanced SQL, and developing custom AI models.
 
 💞️ I’m looking to collaborate and learn from software engineers, AI engineers, ML & NLP engineers, prompt engineers, and others to grow and refine my skills through exciting projects. I’m also passionate about sound, audio programming, and AI technologies.
 
