@@ -1,4 +1,9 @@
-👋 Hi, I’m @karenwhite33, an experienced audio engineer with 13 years of expertise in sound production and signal processing, now transitioning into AI full-stack development. Building on my technical foundation, I’m advancing my skills in Python, deep learning, and MLOps to create impactful AI-driven solutions.
+👋 Hi, I’m @karenwhite33, an AI Engineer applying a decade of audio engineering expertise to ML & NLP, building AI that extracts meaning and optimizes decision-making. 
+
+I fine-tune transformers like LLaMA and BERT for code generation and semantic analysis while developing multimodal AI systems, from medical imaging to CNN-based predictive modeling. 
+
+My focus is on scalable AI solutions that turn unstructured data into business insights. My trasnfered skils strengthens my ability to create intuitive, human-centered AI experiences.
+
 
 I’m passionate about machine learning, deep learning, large language models, and AI-powered content creation. My hands-on experience includes designing dense networks and CNNs for multimodal tasks, improving accuracy by synchronizing tabular and image data pipelines.
 
@@ -18,7 +23,6 @@ _________________________________________________________________
 
 😄 Pronouns: she/her
 
-⚡ Fun fact: I never imagined I’d study something like this, but here I am—taking a big step, full of motivation and passion, ready to work on cutting-edge projects that can change lives.
 
 <!---
 karenwhite33/karenwhite33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
